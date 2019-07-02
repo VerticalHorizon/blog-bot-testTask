@@ -1,4 +1,4 @@
-# Starnavi Bot TestTask
+# Blog Bot TestTask
 
 ### Usage:
 
@@ -7,13 +7,13 @@ Update `config.py` as you wish and build
 #### Run in container:
 
 ```bash
-docker build -t starnavi-bot .
+docker build -t blog-bot .
 ```
 
 Run
 
 ```bash
-docker run starnavi-bot
+docker run blog-bot
 ```
 
 #### Run locally:
