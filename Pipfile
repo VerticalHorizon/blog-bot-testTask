@@ -11,7 +11,7 @@ faker = "*"
 glom = "*"
 certifi = "==2019.6.16"
 face = "==19.1.2"
-urllib3 = "==1.25.3"
+urllib3 = "==1.25.8"
 
 [requires]
 python_version = "3.7"
