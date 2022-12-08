@@ -9,7 +9,7 @@ verify_ssl = true
 requests = "*"
 faker = "*"
 glom = "*"
-certifi = "==2019.6.16"
+certifi = "==2022.12.7"
 face = "==19.1.2"
 urllib3 = "==1.25.3"
 
